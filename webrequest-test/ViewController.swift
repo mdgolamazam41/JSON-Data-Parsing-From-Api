@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  webrequest-test
-//
-//  Created by Mark Price on 8/14/15.
-//  Copyright © 2015 devslopes. All rights reserved.
-//
+
 
 import UIKit
 
